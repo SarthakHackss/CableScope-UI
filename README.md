@@ -6,7 +6,7 @@
 ---
 
 ## 🖥️ User Interface
-![CableScope UI Dashboard](./assets/dashboard-ui.png)
+![CableScope UI Dashboard](UIPNG)
 *Real-time TDR analysis dashboard showing fault detection at 47.3m.*
 
 ---
